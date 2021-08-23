@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bagsinbulk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bagsinbulk.ca/collections/wholesale-drawstring-bags.atom"/>
+  <title>BagsInBulk.ca</title>
+  <updated>2021-08-20T00:15:32-04:00</updated>
+  <author>
+    <name>BagsInBulk.ca</name>
+  </author>
+  <entry>
+    <id>https://bagsinbulk.ca/products/6587390951468</id>
+    <published>2021-08-20T00:15:32-04:00</published>
+    <updated>2021-08-20T00:15:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-18-inch-basic-drawstring-bag-5-colors"/>
+    <title>Wholesale 18 Inch Basic Drawstring Bag - 5 Colors</title>
+    <s:type></s:type>
+    <s:vendor>9622</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/9622_group.jpg?v=1624293924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>9622<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.64 - 100.80
+            <a href="https://bagsinbulk.ca/products/wholesale-18-inch-basic-drawstring-bag-5-colors">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Wholesale 18 Inch Basic Drawstring Bag is made from durable polyester with a light wear design to hold all essentials. With 5 different colors present in each case, there will be a great selection for everyone! Each case has 48 drawstrings bags ensuring the best deal possible!</p>
+<div class="boxedtext">
+<ul>
+<li>Measures 18 x 13.5 x 1</li>
+<li>Made From Polyester</li>
+<li>48 Pieces Per Case</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bags</s:tag>
+    <s:tag>drawstring bags</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587390951468</id>
+      <title>1</title>
+      <s:price currency="CAD">100.80</s:price>
+      <s:sku>9622</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587390951468</id>
+      <title>11</title>
+      <s:price currency="CAD">94.08</s:price>
+      <s:sku>9622</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587390951468</id>
+      <title>21</title>
+      <s:price currency="CAD">87.36</s:price>
+      <s:sku>9622</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587390951468</id>
+      <title>100</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>9622</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587390951468</id>
+      <title>200</title>
+      <s:price currency="CAD">80.64</s:price>
+      <s:sku>9622</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/6587384791084</id>
+    <published>2021-08-20T00:15:32-04:00</published>
+    <updated>2021-08-20T00:15:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-18-inch-basic-drawstring-bag-8-colors"/>
+    <title>Wholesale 18 Inch Basic Drawstring Bag - 8 Colors</title>
+    <s:type></s:type>
+    <s:vendor>9621</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/9621_group.jpg?v=1624292004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>9621<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.64 - 100.80
+            <a href="https://bagsinbulk.ca/products/wholesale-18-inch-basic-drawstring-bag-8-colors">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Wholesale 18 Inch Basic Drawstring Bag is made from durable polyester with a light wear design to hold all essentials. With 8 different colors present in each case, there will be a great selection for everyone! Each case has 48 drawstrings bags ensuring the best deal possible!</p>
+<div class="boxedtext">
+<ul>
+<li>Measures 18 x 13.5 x 1</li>
+<li>Made From Polyester</li>
+<li>48 Pieces Per Case</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bags</s:tag>
+    <s:tag>drawstring bags</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587384791084</id>
+      <title>1</title>
+      <s:price currency="CAD">100.80</s:price>
+      <s:sku>9621</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587384791084</id>
+      <title>11</title>
+      <s:price currency="CAD">94.08</s:price>
+      <s:sku>9621</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587384791084</id>
+      <title>21</title>
+      <s:price currency="CAD">87.36</s:price>
+      <s:sku>9621</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587384791084</id>
+      <title>100</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>9621</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587384791084</id>
+      <title>200</title>
+      <s:price currency="CAD">80.64</s:price>
+      <s:sku>9621</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551582134307</id>
+    <published>2021-08-20T00:15:31-04:00</published>
+    <updated>2021-08-20T00:15:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-high-trails-18-inch-drawstring-bag-five-colors"/>
+    <title>Wholesale High Trails 18 Inch Drawstring Bag - 5 Colors</title>
+    <s:type></s:type>
+    <s:vendor>8654NHT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/8654_group.jpg?v=1594129861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>8654NHT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            124.32 - 147.84
+            <a href="https://bagsinbulk.ca/products/wholesale-high-trails-18-inch-drawstring-bag-five-colors">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This wholesale drawstring backpack is made from long-lasting nylon materials. This bag features a forward-facing front pocket, which makes for easy access for essentials while on the go.</p>
+<ul>
+<li><span>Case Includes 16 Black, 8 Red, 8 Blue, 8 Gray &amp; 8 Green</span></li>
+<li>Made From Durable Polyester</li>
+<li>Front Zippered Accessory Pocket</li>
+<li>Measures 18 x 13</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bags</s:tag>
+    <s:tag>drawstring bags</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582134307</id>
+      <title>1</title>
+      <s:price currency="CAD">147.84</s:price>
+      <s:sku>8654NHT</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582134307</id>
+      <title>11</title>
+      <s:price currency="CAD">141.12</s:price>
+      <s:sku>8654NHT</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582134307</id>
+      <title>21</title>
+      <s:price currency="CAD">134.40</s:price>
+      <s:sku>8654NHT</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582134307</id>
+      <title>100</title>
+      <s:price currency="CAD">127.68</s:price>
+      <s:sku>8654NHT</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582134307</id>
+      <title>200</title>
+      <s:price currency="CAD">124.32</s:price>
+      <s:sku>8654NHT</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551578857507</id>
+    <published>2021-08-20T00:15:31-04:00</published>
+    <updated>2021-08-20T00:15:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-adventure-trails-drawstring-backpack-5-colors"/>
+    <title>Wholesale Adventure Trails Drawstring Backpack - 5 Colors</title>
+    <s:type></s:type>
+    <s:vendor>8647A</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/8647_group.jpg?v=1594064541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>8647A<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.20 - 137.76
+            <a href="https://bagsinbulk.ca/products/wholesale-adventure-trails-drawstring-backpack-5-colors">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This wholesale drawstring backpack is made from long-lasting polyester materials. This drawstring bag includes a front zippered accessory pocket, making this the ideal bag for sports, gym, school, and camp.</span></p>
+<ul>
+<li>Case Includes 16 Black, 8 Red, 8 Blue, 8 Gray &amp; 8 Green</li>
+<li>Made From Durable Polyester</li>
+<li>Front Zippered Pocket</li>
+<li>Measures 18 x 13 (Inches)</li>
+<li>Measures 46 x 33 (Cm)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>and camp.</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>drawstring bags</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>school</s:tag>
+    <s:tag>This Adventure Trails wholesale drawstring backpack is made from long-lasting nylon materials. Two quick access front sleeve pockets make this the ideal bag for sports</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578857507</id>
+      <title>1</title>
+      <s:price currency="CAD">137.76</s:price>
+      <s:sku>8647A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578857507</id>
+      <title>11</title>
+      <s:price currency="CAD">98.40</s:price>
+      <s:sku>8647A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578857507</id>
+      <title>21</title>
+      <s:price currency="CAD">91.20</s:price>
+      <s:sku>8647A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578857507</id>
+      <title>100</title>
+      <s:price currency="CAD">81.60</s:price>
+      <s:sku>8647A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578857507</id>
+      <title>200</title>
+      <s:price currency="CAD">79.20</s:price>
+      <s:sku>8647A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/6587391410220</id>
+    <published>2021-08-20T00:15:21-04:00</published>
+    <updated>2021-08-20T00:15:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-dual-mesh-pocket-drawstring-backpack-5-color-assortment"/>
+    <title>Wholesale Dual Mesh Pocket Drawstring Backpack - 5 Color Assortment</title>
+    <s:type></s:type>
+    <s:vendor>6651</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/6651_group.jpg?v=1624294300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>6651<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            108.52 - 127.68
+            <a href="https://bagsinbulk.ca/products/wholesale-dual-mesh-pocket-drawstring-backpack-5-color-assortment">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This wholesale drawstring backpack is made from long-lasting polyester materials. Two quick-access front sleeve pockets make this the ideal bag for sports, gym, school, and camp.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Case Includes 16 Black, 8 Red, 8 Blue, 8 Gray &amp; 8 Green</li>
+<li data-mce-fragment="1">Made From Durable Polyester</li>
+<li data-mce-fragment="1">Two quick-access mesh pocket</li>
+<li data-mce-fragment="1">Measures 18 x 13</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bags</s:tag>
+    <s:tag>drawstring bags</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587391410220</id>
+      <title>1</title>
+      <s:price currency="CAD">127.68</s:price>
+      <s:sku>6651</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587391410220</id>
+      <title>11</title>
+      <s:price currency="CAD">120.96</s:price>
+      <s:sku>6651</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587391410220</id>
+      <title>21</title>
+      <s:price currency="CAD">114.24</s:price>
+      <s:sku>6651</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587391410220</id>
+      <title>100</title>
+      <s:price currency="CAD">110.88</s:price>
+      <s:sku>6651</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587391410220</id>
+      <title>200</title>
+      <s:price currency="CAD">108.52</s:price>
+      <s:sku>6651</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551578791971</id>
+    <published>2021-08-20T00:15:16-04:00</published>
+    <updated>2021-08-20T00:15:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-high-trails-18-inch-drawstring-bag-three-colors"/>
+    <title>Wholesale High Trails 18 Inch Drawstring Bag - 3 Colors</title>
+    <s:type></s:type>
+    <s:vendor>6654</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/6654_group.jpg?v=1624294541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>6654<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.40 - 127.00
+            <a href="https://bagsinbulk.ca/products/wholesale-high-trails-18-inch-drawstring-bag-three-colors">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This High Trails wholesale drawstring backpack is made from long-lasting nylon materials. This bag features a forward facing front pocket, which makes for easy access for essentials while on the go. These assorted drawstrings comes in black, red and blue. </p>
+<ul>
+<li>Case Includes 16 Black, 16 Red and 16 Blue</li>
+<li>Made From Durable Polyester</li>
+<li>Front Zippered Accessory Pocket</li>
+<li>Measures 18 x 13 (Inches)</li>
+<li>Measures 46 x 33 (Cm)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bags</s:tag>
+    <s:tag>drawstring bags</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578791971</id>
+      <title>1</title>
+      <s:price currency="CAD">127.00</s:price>
+      <s:sku>6654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578791971</id>
+      <title>11</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>6654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578791971</id>
+      <title>21</title>
+      <s:price currency="CAD">110.40</s:price>
+      <s:sku>6654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578791971</id>
+      <title>100</title>
+      <s:price currency="CAD">100.80</s:price>
+      <s:sku>6654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578791971</id>
+      <title>200</title>
+      <s:price currency="CAD">98.40</s:price>
+      <s:sku>6654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

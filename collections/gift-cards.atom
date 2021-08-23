@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bagsinbulk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bagsinbulk.ca/collections/gift-cards.atom"/>
+  <title>BagsInBulk.ca</title>
+  <updated>2019-04-10T17:46:45-04:00</updated>
+  <author>
+    <name>BagsInBulk.ca</name>
+  </author>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1671267811363</id>
+    <published>2019-04-10T17:46:45-04:00</published>
+    <updated>2019-04-10T17:46:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/250-e-gift-card"/>
+    <title>$250 E-Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>GC250</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/250.png?v=1582756311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GC250<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our $250 BagsinBulk Gift Card is perfect for helping out your non-profit organization or local charity event. Multiple gift cards can be used to make a large purchase and can be redeemed directly online or over the phone. Once gift card is purchase you will receive an email with your E-Gift Card. </p>
+<ul>
+<li>BagsinBulk Gift Cards never expire and carry no fees.</li>
+<li>Redeemable towards any item listed on Bagsinbulk.com</li>
+<li>No returns and no refunds on Gift Cards.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Cards</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1671267811363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku>GC250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1671266959395</id>
+    <published>2019-04-10T17:44:50-04:00</published>
+    <updated>2019-04-10T17:44:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/500-e-gift-card"/>
+    <title>$500 E-Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>GC500</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/500.png?v=1582756316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GC500<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our $500 BagsinBulk Gift Card is perfect for helping out your non-profit organization or local charity event. Multiple gift cards can be used to make a large purchase and can be redeemed directly online or over the phone. Once gift card is purchase you will receive an email with your E-Gift Card. </p>
+<ul>
+<li>BagsinBulk Gift Cards never expire and carry no fees.</li>
+<li>Redeemable towards any item listed on Bagsinbulk.com</li>
+<li>No returns and no refunds on Gift Cards.</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Cards</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1671266959395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">500.00</s:price>
+      <s:sku>GC500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1671266369571</id>
+    <published>2019-04-10T17:44:02-04:00</published>
+    <updated>2019-04-10T17:44:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/50-e-gift-card"/>
+    <title>$50 E-Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>GC50</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/50.png?v=1582756311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GC50<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our $50 BagsinBulk Gift Card is perfect for helping out your non-profit organization or local charity event. Multiple gift cards can be used to make a large purchase and can be redeemed directly online or over the phone. Once gift card is purchase you will receive an email with your E-Gift Card. </p>
+<ul>
+<li>BagsinBulk Gift Cards never expire and carry no fees.</li>
+<li>Redeemable towards any item listed on Bagsinbulk.com</li>
+<li>No returns and no refunds on Gift Cards.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Cards</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1671266369571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>GC50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1578940792867</id>
+    <published>2019-04-10T17:44:00-04:00</published>
+    <updated>2019-04-10T17:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/gift-card"/>
+    <title>$100 E-Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>GC100</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/100.png?v=1582756311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GC100<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our $100 BagsinBulk Gift Card is perfect for helping out your non-profit organization or local charity event. Multiple gift cards can be used to make a large purchase and can be redeemed directly online or over the phone. Once gift card is purchase you will receive an email with your E-Gift Card. </p>
+<ul>
+<li>BagsinBulk Gift Cards never expire and carry no fees.</li>
+<li>Redeemable towards any item listed on Bagsinbulk.com</li>
+<li>No returns and no refunds on Gift Cards.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Cards</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1578940792867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>GC100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

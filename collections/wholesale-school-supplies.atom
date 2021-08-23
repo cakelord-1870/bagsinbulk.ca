@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bagsinbulk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bagsinbulk.ca/collections/wholesale-school-supplies.atom"/>
+  <title>BagsInBulk.ca</title>
+  <updated>2021-08-20T00:15:57-04:00</updated>
+  <author>
+    <name>BagsInBulk.ca</name>
+  </author>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551585378339</id>
+    <published>2021-08-20T00:15:57-04:00</published>
+    <updated>2021-08-20T00:15:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-10-pack-of-markers-assorted-colors"/>
+    <title>Wholesale 10 Pack of Markers - Assorted Colors</title>
+    <s:type></s:type>
+    <s:vendor>SS7677</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS7677.jpg?v=1582755364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS7677<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.92 - 55.68
+            <a href="https://bagsinbulk.ca/products/wholesale-10-pack-of-markers-assorted-colors">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 10 Pack of Markers is perfect for your inner artist. This set comes assorted in 10 different colors of blue, brown, light green, orange, purple, pink, yellow, red, black &amp; navy.</p>
+<ul>
+<li>Case Include 96 Packs Per Case</li>
+<li>Includes Purple, Pink, Orange, Black, Lime Green, Red, Blue, Brown, Navy &amp; Yellow</li>
+<li>Each Pack Is Individually Packed</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>markers</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551585378339</id>
+      <title>1</title>
+      <s:price currency="CAD">55.68</s:price>
+      <s:sku>SS7677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551585378339</id>
+      <title>21</title>
+      <s:price currency="CAD">49.92</s:price>
+      <s:sku>SS7677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551584755747</id>
+    <published>2021-08-20T00:15:48-04:00</published>
+    <updated>2021-08-20T00:15:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-sticky-notes-assorted-colors-100-sheets"/>
+    <title>Wholesale Sticky Notes Assorted Colors - 100 Sheets</title>
+    <s:type></s:type>
+    <s:vendor>SS8691</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS7691.jpg?v=1582743478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS8691<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.20 - 106.40
+            <a href="https://bagsinbulk.ca/products/wholesale-sticky-notes-assorted-colors-100-sheets">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Sticky Notes are the perfect everyday note taking tool! Each case includes 100 sheets, which give allow for plenty of note taking. Each pack is individually packaged. </p>
+<div class="boxedtext">
+<ul>
+<li>Case Include 200 Packs Per Case</li>
+<li>Each Pack Includes 100 Sheet Sticky Notes</li>
+<li>Each Pack Is Individually Packed</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>School Supplies</s:tag>
+    <s:tag>Sticky Notes</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551584755747</id>
+      <title>1</title>
+      <s:price currency="CAD">106.40</s:price>
+      <s:sku>SS8691</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551584755747</id>
+      <title>21</title>
+      <s:price currency="CAD">95.20</s:price>
+      <s:sku>SS8691</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551579873315</id>
+    <published>2021-08-20T00:15:47-04:00</published>
+    <updated>2021-08-20T00:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-twenty-four-piece-school-supply-kit"/>
+    <title>Wholesale 45 Piece School Supply Kit</title>
+    <s:type></s:type>
+    <s:vendor>SS7671</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS7671.jpg?v=1582745998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS7671<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            113.40 - 127.20
+            <a href="https://bagsinbulk.ca/products/wholesale-twenty-four-piece-school-supply-kit">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 45 Piece Universal School Supply Kits are ideal for students grades K-12, and contain the essentials they’ll need to excel in every class. Plus, now your school supplies shopping just got easier! Get everything students need all at once, in one place! Every bundle in individually wrapped, and each pack contains:</p>
+<ul>
+<li>2 One Subject Spiral Notebooks (70 Pages Each, Assorted Colors)</li>
+<li>1 Black &amp; White Composition Book</li>
+<li>4 2-Pocket Organizer Folders</li>
+<li>1 Zip Top Canvas Pencil Case (Assorted Colors)</li>
+<li>1 12-Inch Ruler (Includes Metric Centimeters, Assorted Colors)</li>
+<li>1 5-Inch Blunt Tip Safety Scissor (Ambidextrous, for Righties &amp; Lefties Both!)</li>
+<li>1 Set of 5 #2 Pencils</li>
+<li>1 Set of 5 Ballpoint Ink Pens (2 Black, 2 Blue, 1 Red)</li>
+<li>1 Set of 5 Colored Pencils (Red, Orange, Yellow, Green, &amp; Blue)</li>
+<li>1 Pack of Crayons</li>
+<li>1 Pencil Sharpener with Dome Lid (Collects Shavings, Assorted Colors)</li>
+<li>2 Easy Twist-Up Glue Sticks (Washable)</li>
+<li>3 Highlighters</li>
+<li>4 Pink Erasers</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>School Supply Kits</s:tag>
+    <s:tag>Wholesale School Supply Kits</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579873315</id>
+      <title>1</title>
+      <s:price currency="CAD">127.20</s:price>
+      <s:sku>SS7671</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579873315</id>
+      <title>11</title>
+      <s:price currency="CAD">124.20</s:price>
+      <s:sku>SS7671</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579873315</id>
+      <title>21</title>
+      <s:price currency="CAD">120.60</s:price>
+      <s:sku>SS7671</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579873315</id>
+      <title>100</title>
+      <s:price currency="CAD">117.60</s:price>
+      <s:sku>SS7671</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579873315</id>
+      <title>200</title>
+      <s:price currency="CAD">113.40</s:price>
+      <s:sku>SS7671</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551579250723</id>
+    <published>2021-08-20T00:15:47-04:00</published>
+    <updated>2021-08-20T00:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/bulk-18-piece-school-supply-kit"/>
+    <title>Wholesale 30 Piece School Supply Kit</title>
+    <s:type></s:type>
+    <s:vendor>SS7670</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS7670.jpg?v=1582746054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS7670<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.00 - 86.40
+            <a href="https://bagsinbulk.ca/products/bulk-18-piece-school-supply-kit">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 30 Piece School Supply Kits have the essentials all students need to succeed academically and have a productive year. Your school supplies shopping just got easier! Every bundle is individually wrapped, and each pack contains:</p>
+<ul>
+<li>1 One Subject Spiral Notebook (70 Pages, Assorted Colors)</li>
+<li>3 2-Pocket Organizer Folders (Assorted Colors)</li>
+<li>1 Zip Top Canvas Pencil Case (Assorted Colors)</li>
+<li>1 Set of 5 #2 Pencils</li>
+<li>1 Set of 5 Ballpoint Ink Pens (2 Black, 2 Blue, 1 Red)</li>
+<li>1 Pencil Sharpener with Dome Lid (Collects Shavings, Assorted Colors)</li>
+<li>1 Pack of Crayons</li>
+<li>1 12-Inch Ruler (Includes Metric Centimeters, Assorted Colors)</li>
+<li>1 5-Inch Blunt Tip Safety Scissor (Ambidextrous, for Righties &amp; Lefties Both!)</li>
+<li>2 Highlighters</li>
+<li>2 Easy Twist-Up Glue Sticks (Washable)</li>
+<li>3 Pink Erasers</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>School Supply Kits</s:tag>
+    <s:tag>Wholesale School Supply Kits</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579250723</id>
+      <title>1</title>
+      <s:price currency="CAD">86.40</s:price>
+      <s:sku>SS7670</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579250723</id>
+      <title>11</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>SS7670</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579250723</id>
+      <title>21</title>
+      <s:price currency="CAD">81.60</s:price>
+      <s:sku>SS7670</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579250723</id>
+      <title>100</title>
+      <s:price currency="CAD">79.80</s:price>
+      <s:sku>SS7670</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551579250723</id>
+      <title>200</title>
+      <s:price currency="CAD">78.00</s:price>
+      <s:sku>SS7670</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551578365987</id>
+    <published>2021-08-20T00:15:47-04:00</published>
+    <updated>2021-08-20T00:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-three-pack-of-glue-sticks-forty-eight-cases"/>
+    <title>Wholesale Glue Stick - 3 Pack</title>
+    <s:type></s:type>
+    <s:vendor>SS8698</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS7698.jpg?v=1582752121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS8698<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            122.00 - 140.00
+            <a href="https://bagsinbulk.ca/products/wholesale-three-pack-of-glue-sticks-forty-eight-cases">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our wholesale glue stick securely and permanently bonds paper, cardboard, fabric, polystyrene, and photos. Outstanding on paper, adjustable after applying. Also great for layouts, crafts, and school projects.</p>
+<ul>
+<li>200 Packs Per Case</li>
+<li>Safe For Children To Use</li>
+<li>Re-sealable Cap</li>
+<li>Strong Adhesive</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glue Sticks</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578365987</id>
+      <title>1</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>SS8698</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578365987</id>
+      <title>21</title>
+      <s:price currency="CAD">122.00</s:price>
+      <s:sku>SS8698</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551574695971</id>
+    <published>2021-08-20T00:15:47-04:00</published>
+    <updated>2021-08-20T00:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-12-piece-school-supply-kit"/>
+    <title>Wholesale 12 Piece School Supply Kit</title>
+    <s:type></s:type>
+    <s:vendor>SS7668</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS_7668_group.jpg?v=1582755124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS7668<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            91.20 - 117.60
+            <a href="https://bagsinbulk.ca/products/wholesale-12-piece-school-supply-kit">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Universal 12 Piece School Supply Kits are each individually packed and are perfect for K-12 students. Containing the basic essentials all kids will need to have a fruitful school year, each supply bundle is individually wrapped and contains:</p>
+<ul>
+<li>1 Zip Top Canvas Pencil Case (Assorted Colors)</li>
+<li>1 Set of #2 Pencils</li>
+<li>1 Pencil Sharpener (Assorted Colors)</li>
+<li>1 Set of Blue &amp; Black Ink Ballpoint Pens</li>
+<li>1 Pink Eraser</li>
+<li>1 Easy Twist-Up Glue Stick (Washable)</li>
+<li>1 Pack of Crayons (4 Pack – Red, Blue, Orange, &amp; Green)</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>School Supply Kits</s:tag>
+    <s:tag>Wholesale School Supply Kits</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551574695971</id>
+      <title>1</title>
+      <s:price currency="CAD">117.60</s:price>
+      <s:sku>SS7668</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551574695971</id>
+      <title>11</title>
+      <s:price currency="CAD">110.40</s:price>
+      <s:sku>SS7668</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551574695971</id>
+      <title>21</title>
+      <s:price currency="CAD">103.20</s:price>
+      <s:sku>SS7668</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551574695971</id>
+      <title>100</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>SS7668</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551574695971</id>
+      <title>200</title>
+      <s:price currency="CAD">91.20</s:price>
+      <s:sku>SS7668</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551578136611</id>
+    <published>2021-08-20T00:15:30-04:00</published>
+    <updated>2021-08-20T00:15:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-pencil-sharpener-with-dome-cover"/>
+    <title>Wholesale Pencil Sharpener with Dome Cover</title>
+    <s:type></s:type>
+    <s:vendor>SS8667</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS4667_20Group.jpg?v=1582744317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS8667<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            128.00 - 148.00
+            <a href="https://bagsinbulk.ca/products/wholesale-pencil-sharpener-with-dome-cover">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The dome covered sharpener, offers precision when keeping those pencils sharp. Comes in a blue, red, black, and yellow  assortment and is featured with a compact shape.  Has a spill proof dome to hold extra shavings.</p>
+<ul>
+<li>400 Pieces Per Case</li>
+<li>Comes With Dome Cover</li>
+<li>Assorted Blue, Red, Black, &amp; Yellow</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>School Supplies</s:tag>
+    <s:tag>Sharpeners</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578136611</id>
+      <title>1</title>
+      <s:price currency="CAD">148.00</s:price>
+      <s:sku>SS8667</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551578136611</id>
+      <title>21</title>
+      <s:price currency="CAD">128.00</s:price>
+      <s:sku>SS8667</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551577808931</id>
+    <published>2021-08-20T00:15:30-04:00</published>
+    <updated>2021-08-20T00:15:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/bulk-10-pack-of-crayons"/>
+    <title>Wholesale 10 Pack Of Crayons</title>
+    <s:type></s:type>
+    <s:vendor>SS8657</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/10_20crayons_1.jpg?v=1582755362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS8657<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            74.00 - 86.00
+            <a href="https://bagsinbulk.ca/products/bulk-10-pack-of-crayons">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crayons often see a lot of use by artists and students alike. The basic colors in our wholesale 10 pack of crayons allow for multiple color combinations. Each crayon is wrapped in paper to protect against accidental coloration, and the wrapper displays the name of the color for students.</p>
+<div class="boxedtext">
+<ul>
+<li>200 Packs Per Case</li>
+<li>Standard Crayon Size</li>
+<li>Non-Toxic &amp; Safe For Children</li>
+<li>10 Crayons Per Pack</li>
+<li>Comes in 10 Assorted Colors</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crayons</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551577808931</id>
+      <title>1</title>
+      <s:price currency="CAD">86.00</s:price>
+      <s:sku>SS8657</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551577808931</id>
+      <title>21</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku>SS8657</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551574040611</id>
+    <published>2021-08-20T00:15:30-04:00</published>
+    <updated>2021-08-20T00:15:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-plastic-12-inch-ruler"/>
+    <title>Wholesale Plastic 12 Inch Rulers</title>
+    <s:type></s:type>
+    <s:vendor>SS8665</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS4665.jpg?v=1582744204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS8665<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            76.00 - 100.00
+            <a href="https://bagsinbulk.ca/products/wholesale-plastic-12-inch-ruler">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our wholesale Plastic 12 Inch Ruler (new colors) is now new and improved.  In a thinner flexible design made easier to trace, make measurements, and manipulate shapes; Making your task even easier to execute.</p>
+<div class="col-md-9 col-xs-12 col-sm-6" itemscope="" itemtype="http://schema.org/Product">
+<div class="row">
+<div class="col-md-4" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+<div class="boxedtext">
+<ul>
+<li>400 Rulers Per Case</li>
+<li>Comes in 4 Assorted Colors</li>
+<li>12 inch Plastic Ruler</li>
+<li>Complete with Inches And Centimeters</li>
+</ul>
+</div>
+<div class="boxedtext">
+<div class="addthis_toolbox addthis_default_style addthis_16x16_style quick-soc_icon">
+<div class="atclear"></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rulers</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551574040611</id>
+      <title>1</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>SS8665</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551574040611</id>
+      <title>21</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>SS8665</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551584722979</id>
+    <published>2021-08-20T00:15:28-04:00</published>
+    <updated>2021-08-20T00:15:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-highlighters-pack-of-3"/>
+    <title>Wholesale Highlighters Pack of 3</title>
+    <s:type></s:type>
+    <s:vendor>SS8685</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS7685.jpg?v=1582750971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS8685<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            140.00 - 158.00
+            <a href="https://bagsinbulk.ca/products/wholesale-highlighters-pack-of-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our wholesale highlighter 3 pack comes in a bright yellow, vibrate orange and fluorescent green. These highlighters feature a chisel tip for both wide and narrow lines of text. Easy gliding tip for smooth highlighting and massive ink supply ensures a long marking life.</p>
+<ul>
+<li>200 Packs Per Case</li>
+<li>3 Pieces Per Pack</li>
+<li>Assorted Colors</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Highlighters</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551584722979</id>
+      <title>1</title>
+      <s:price currency="CAD">158.00</s:price>
+      <s:sku>SS8685</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551584722979</id>
+      <title>21</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>SS8685</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551577153571</id>
+    <published>2021-08-20T00:15:28-04:00</published>
+    <updated>2021-08-20T00:15:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-ten-pack-of-pens"/>
+    <title>Wholesale 10 Pack of Pens - 200 Packs</title>
+    <s:type></s:type>
+    <s:vendor>SS9664</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS9332.jpg?v=1582755248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS9664<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            228.00 - 262.00
+            <a href="https://bagsinbulk.ca/products/wholesale-ten-pack-of-pens">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Writing essays, sonnet’s, and haiku’s are made easy with these wholesale 10 pack of high quality ballpoint pens, in a black, blue and red assortment. Standard 6 inch pen with removable and screw cap bottom.</p>
+<ul>
+<li>200 Packs Per Case</li>
+<li>Comes With Removal Cap</li>
+<li>Assorted Black, Blue &amp; Red Pens</li>
+<li>10 Pens In Each Pack</li>
+<li>Standard Size 6" Pen</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pens</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551577153571</id>
+      <title>1</title>
+      <s:price currency="CAD">262.00</s:price>
+      <s:sku>SS9664</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551577153571</id>
+      <title>21</title>
+      <s:price currency="CAD">228.00</s:price>
+      <s:sku>SS9664</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551576137763</id>
+    <published>2021-08-20T00:15:28-04:00</published>
+    <updated>2021-08-20T00:15:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-three-pack-pink-eraser"/>
+    <title>Wholesale 3 Pack Pink Eraser</title>
+    <s:type></s:type>
+    <s:vendor>SS8662</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS4662.jpg?v=1582746958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS8662<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00 - 60.00
+            <a href="https://bagsinbulk.ca/products/wholesale-three-pack-pink-eraser">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our wholesale pink erasers are designed to erase pencil marks, so you can enjoy a clean writing space. The erasers are soft and gentle on paper, allowing you to erase without tearing your document. this eraser measures 2.25 x .0.75</p>
+<ul>
+<li>200 Packs Per Case</li>
+<li>3 Erasers Per Pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Erasers</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551576137763</id>
+      <title>1</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>SS8662</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551576137763</id>
+      <title>21</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SS8662</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551584198691</id>
+    <published>2021-08-20T00:15:23-04:00</published>
+    <updated>2021-08-20T00:15:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-two-pocket-folders-96-pack"/>
+    <title>Wholesale Two Pocket Folders - 96 Pack</title>
+    <s:type></s:type>
+    <s:vendor>SS7664</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS7664.jpg?v=1582739519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS7664<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.30 - 29.76
+            <a href="https://bagsinbulk.ca/products/wholesale-two-pocket-folders-96-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These durable paperback two pocket folders are sure to keep any student organized. Measuring at 11.5 x 9 they come in a assorted colors. These folders also fit perfect within any 3 ring binder. </p>
+<ul>
+<li>96 Folder Per Case</li>
+<li>Fits Securely Within Any Binder</li>
+<li>Two Pocket Folder</li>
+<li>Measures 11.5 x 9</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Folders</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551584198691</id>
+      <title>1</title>
+      <s:price currency="CAD">29.76</s:price>
+      <s:sku>SS7664</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551584198691</id>
+      <title>21</title>
+      <s:price currency="CAD">25.30</s:price>
+      <s:sku>SS7664</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/6587348549676</id>
+    <published>2021-08-20T00:15:22-04:00</published>
+    <updated>2021-08-20T00:15:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-10-pack-of-colored-pencils"/>
+    <title>Wholesale 10 Pack of Colored Pencils</title>
+    <s:type></s:type>
+    <s:vendor>SS9347</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS9347.jpg?v=1624288777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS9347<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            88.68 - 92.74
+            <a href="https://bagsinbulk.ca/products/wholesale-10-pack-of-colored-pencils">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 5 pack set of assorted colored pencils is perfect for your inner artist. This set comes assorted in 10 different colors per pack.</p>
+<div class="boxedtext">
+<ul>
+<li>96 Packs of Each Set</li>
+<li>Assorted Colors</li>
+<li>Each Pack Contains 5 Colored Pencils</li>
+</ul>
+</div>
+<ul></ul>
+<div class="boxedtext">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colored Pencils</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587348549676</id>
+      <title>1</title>
+      <s:price currency="CAD">92.74</s:price>
+      <s:sku>SS9347</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587348549676</id>
+      <title>21</title>
+      <s:price currency="CAD">88.68</s:price>
+      <s:sku>SS9347</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551577120803</id>
+    <published>2021-08-20T00:15:22-04:00</published>
+    <updated>2021-08-20T00:15:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-twelve-piece-school-supply-kit"/>
+    <title>Wholesale 20 Piece School Supply Kit</title>
+    <s:type></s:type>
+    <s:vendor>SS7669</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS7669.jpg?v=1582747140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS7669<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            112.80 - 129.60
+            <a href="https://bagsinbulk.ca/products/wholesale-twelve-piece-school-supply-kit">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 20 Piece Universal School Supply Kits are ideal for students from grades K-12. Every essentials bundle is individually packed and consists of the items kids need to tackle the school year and do their best work. Each pack contains:</p>
+<ul>
+<li>1 One Subject Spiral Notebook (70 Pages, Assorted Colors)</li>
+<li>1 2-Pocket Organizer Folder (Assorted Colors)</li>
+<li>1 Zip Top Canvas Pencil Case (Assorted Colors)</li>
+<li>1 Set of 3 #2 Pencils</li>
+<li>1 Set of 3 Black &amp; Blue Ballpoint Ink Pens</li>
+<li>1 Pack of Crayons</li>
+<li>1 Highlighter</li>
+<li>1 12-Inch Ruler (Includes Metric Centimeters, Assorted Colors)</li>
+<li>1 Easy Twist-Up Glue Stick (Washable)</li>
+<li>1 Pencil Sharpener with Dome Lid (Collects Shavings, Assorted Colors)</li>
+<li>2 Pink Erasers</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>School Supply Kits</s:tag>
+    <s:tag>Wholesale School Supply Kits</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551577120803</id>
+      <title>1</title>
+      <s:price currency="CAD">129.60</s:price>
+      <s:sku>SS7669</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551577120803</id>
+      <title>11</title>
+      <s:price currency="CAD">124.80</s:price>
+      <s:sku>SS7669</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551577120803</id>
+      <title>21</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>SS7669</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551577120803</id>
+      <title>100</title>
+      <s:price currency="CAD">116.40</s:price>
+      <s:sku>SS7669</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551577120803</id>
+      <title>200</title>
+      <s:price currency="CAD">112.80</s:price>
+      <s:sku>SS7669</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551582920739</id>
+    <published>2021-08-20T00:15:18-04:00</published>
+    <updated>2021-08-20T00:15:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-three-ring-binder-pencil-case"/>
+    <title>Wholesale 3 Ring Binder Pencil Case - 8 Colors</title>
+    <s:type></s:type>
+    <s:vendor>4673</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/4673_Group.jpg?v=1582746419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>4673<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.20 - 86.40
+            <a href="https://bagsinbulk.ca/products/wholesale-three-ring-binder-pencil-case">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Wholesale 3 Ring Binder Pencil Case comes in various color options for a choice everyone would like! It measure at 10.25 x 6 x 0.5 with the capacity to hold all necessary school supplies while also having a sleek fit in your three ring binder!</p>
+<ul>
+<li>Each Case Includes 96 Pencil Cases</li>
+<li>Top Zippered Closure</li>
+<li>Made From 600D Polyester</li>
+<li>Fits Into Any 3 Ring Binder</li>
+<li>Measures 10.25 x 6 (Inches)</li>
+<li>Measures 26 x 15 (Cm)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pencil Cases</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582920739</id>
+      <title>1</title>
+      <s:price currency="CAD">86.40</s:price>
+      <s:sku>4673</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582920739</id>
+      <title>11</title>
+      <s:price currency="CAD">76.80</s:price>
+      <s:sku>4673</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582920739</id>
+      <title>21</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku>4673</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582920739</id>
+      <title>100</title>
+      <s:price currency="CAD">67.20</s:price>
+      <s:sku>4673</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/1551582724131</id>
+    <published>2021-08-20T00:15:18-04:00</published>
+    <updated>2021-08-20T00:15:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-three-ring-binder-pencil-case-with-window"/>
+    <title>Wholesale 3 Ring Binder Pencil Case with Window - 8 Colors</title>
+    <s:type></s:type>
+    <s:vendor>4676</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/4676_Group_5-2-2018-11-15-20.jpg?v=1582746298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>4676<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            76.80 - 96.00
+            <a href="https://bagsinbulk.ca/products/wholesale-three-ring-binder-pencil-case-with-window">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Wholesale 3 Ring Binder Pencil Case with Window comes in several awesome color assortments. This pencil case includes a front facing window for visibility and security. Also has plenty of capacity to hold all necessary school supplies while also having a sleek fit in your three ring binder!</p>
+<ul>
+<li>Case Includes 96 Pencil Cases</li>
+<li>Multiple Color Options Available</li>
+<li>Made From 600D Polyester</li>
+<li>Fits Into Any 3 Ring Binder</li>
+<li>Measures 10 x 7.5 (Inches)</li>
+<li>Measures 25.5 x 19 (Cm)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pencil Cases</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582724131</id>
+      <title>1</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>4676</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582724131</id>
+      <title>11</title>
+      <s:price currency="CAD">91.20</s:price>
+      <s:sku>4676</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582724131</id>
+      <title>21</title>
+      <s:price currency="CAD">86.40</s:price>
+      <s:sku>4676</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/1551582724131</id>
+      <title>100</title>
+      <s:price currency="CAD">76.80</s:price>
+      <s:sku>4676</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/6587347927084</id>
+    <published>2021-06-21T11:08:47-04:00</published>
+    <updated>2021-06-21T11:08:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-5-inch-scissor-blunt-tip-assorted-colors"/>
+    <title>Wholesale 5 Inch Scissor Blunt Tip - Assorted Colors</title>
+    <s:type></s:type>
+    <s:vendor>SS4666</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS4666_cba4d84b-1646-4015-a114-8062a7a6302e.jpg?v=1624288237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS4666<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.28 - 45.12
+            <a href="https://bagsinbulk.ca/products/wholesale-5-inch-scissor-blunt-tip-assorted-colors">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Wholesale Blunt tip scissors are made with durable stainless-steel blades easily used for right or left-handed students. Features a blunt tip for safe use by preschoolers. And can be used for cutting paper, fabric, string, and other craft materials.</p>
+<ul>
+<li>96 Scissors Per Case</li>
+<li>Blunt Tip (safe for children)</li>
+<li>Steel Blades</li>
+<li>Comfort Handle</li>
+</ul>
+<div class="boxedtext">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>School Supplies</s:tag>
+    <s:tag>Scissors</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587347927084</id>
+      <title>1</title>
+      <s:price currency="CAD">45.12</s:price>
+      <s:sku>SS4666</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/6587347927084</id>
+      <title>21</title>
+      <s:price currency="CAD">41.28</s:price>
+      <s:sku>SS4666</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5153193656364</id>
+    <published>2020-04-29T10:38:22-04:00</published>
+    <updated>2020-04-29T10:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-1-subject-notebook-college-ruled-70-sheets"/>
+    <title>Wholesale 1 Subject Notebook - College Ruled - 70 Sheets</title>
+    <s:type></s:type>
+    <s:vendor>SS9403</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS9403.jpg?v=1588171257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS9403<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.50 - 77.38
+            <a href="https://bagsinbulk.ca/products/wholesale-1-subject-notebook-college-ruled-70-sheets">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These 70 page college ruled spiral notebooks will be sure to come handy for any subject in school. This notebook features high quality paper, and measures 10.5 x 8. Great for jotting down notes or lesson plans.</p>
+<ul>
+<li>48 Spiral Notebooks Per Case</li>
+<li>Comes In Assorted Colors</li>
+<li>College Ruled with Perforated Sheets</li>
+<li>Measures 10.5 x 8</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Notebooks</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153193656364</id>
+      <title>1</title>
+      <s:price currency="CAD">77.38</s:price>
+      <s:sku>SS9403</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153193656364</id>
+      <title>21</title>
+      <s:price currency="CAD">62.50</s:price>
+      <s:sku>SS9403</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5153271709740</id>
+    <published>2020-04-29T10:20:05-04:00</published>
+    <updated>2020-04-29T10:20:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-5-pack-of-pencils"/>
+    <title>Wholesale 5 Pack Of Pencils</title>
+    <s:type></s:type>
+    <s:vendor>SS9344</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS9344.jpg?v=1588173369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS9344<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.08 - 59.52
+            <a href="https://bagsinbulk.ca/products/wholesale-5-pack-of-pencils">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These pencils are sure to help you ace any test! Made with high quality #2 lead and features a high quality eraser head for ultimate precision.</p>
+<ul>
+<li>96 Packs Per Case</li>
+<li>High Quality #2 Pencils with Eraser</li>
+<li>5 Pencils in Each Pack</li>
+</ul>
+<div class="boxedtext">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feed-cl0-underperform</s:tag>
+    <s:tag>Pencils</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153271709740</id>
+      <title>1</title>
+      <s:price currency="CAD">59.52</s:price>
+      <s:sku>SS9344</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153271709740</id>
+      <title>21</title>
+      <s:price currency="CAD">52.08</s:price>
+      <s:sku>SS9344</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5153254768684</id>
+    <published>2020-04-29T10:20:05-04:00</published>
+    <updated>2020-04-29T10:20:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-filler-paper-wide-ruled-100-sheets"/>
+    <title>Wholesale Filler Paper - Wide Ruled 100 Sheets</title>
+    <s:type></s:type>
+    <s:vendor>SS9367</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS9367.jpg?v=1588173055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS9367<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.12 - 93.00
+            <a href="https://bagsinbulk.ca/products/wholesale-filler-paper-wide-ruled-100-sheets">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 100 sheets of filler paper is perfect for your everyday use. Its both sided to maximize space. This filler papers follows the wide-ruled measurements. </p>
+<div class="boxedtext">
+<ul>
+<li>48 Packs of 100 Sheets</li>
+<li>Measure 10.5 X 8 Inches</li>
+<li>Wide Ruled Filler Paper</li>
+</ul>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feed-cl0-underperform</s:tag>
+    <s:tag>Paper</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153254768684</id>
+      <title>1</title>
+      <s:price currency="CAD">93.00</s:price>
+      <s:sku>SS9367</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153254768684</id>
+      <title>21</title>
+      <s:price currency="CAD">78.12</s:price>
+      <s:sku>SS9367</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5153213972524</id>
+    <published>2020-04-29T10:20:05-04:00</published>
+    <updated>2020-04-29T10:20:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-pack-of-100-index-cards"/>
+    <title>Wholesale Pack of 100 Index Cards</title>
+    <s:type></s:type>
+    <s:vendor>SS9388</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS9388Group.jpg?v=1588171856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS9388<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            83.32 - 90.76
+            <a href="https://bagsinbulk.ca/products/wholesale-pack-of-100-index-cards">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These index cards are perfect for your test-taking students. Organize your thoughts and topics with these ruled index cards. </p>
+<ul>
+<li>96 Packs Per Case</li>
+<li>100 Index Cards Per Pack</li>
+<li>Measures 3 x 5</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feed-cl0-underperform</s:tag>
+    <s:tag>Index Cards</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153213972524</id>
+      <title>1</title>
+      <s:price currency="CAD">90.76</s:price>
+      <s:sku>SS9388</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153213972524</id>
+      <title>21</title>
+      <s:price currency="CAD">83.32</s:price>
+      <s:sku>SS9388</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5153182482476</id>
+    <published>2020-04-29T10:20:05-04:00</published>
+    <updated>2020-04-29T10:20:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-1-subject-notebook-wide-ruled-70-sheets"/>
+    <title>Wholesale 1 Subject Notebook - Wide Ruled - 70 Sheets</title>
+    <s:type></s:type>
+    <s:vendor>SS9361</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS9361.jpg?v=1588170971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS9361<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.50 - 77.38
+            <a href="https://bagsinbulk.ca/products/wholesale-1-subject-notebook-wide-ruled-70-sheets">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These 70 page wide ruled spiral notebooks will be sure to come handy for any subject in school. This notebook features high quality paper, and measures 10.5 x 8. Great for jotting down notes or lesson plans.</p>
+<ul>
+<li>48 Spiral Notebooks Per Case</li>
+<li>Wide Ruled with Perforated Sheets</li>
+<li>Assorted Black, Blue, Red, Yellow, and Green</li>
+<li>Measures 10.5 x 8</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feed-cl0-underperform</s:tag>
+    <s:tag>Notebooks</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153182482476</id>
+      <title>1</title>
+      <s:price currency="CAD">77.38</s:price>
+      <s:sku>SS9361</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153182482476</id>
+      <title>21</title>
+      <s:price currency="CAD">62.50</s:price>
+      <s:sku>SS9361</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5153127989292</id>
+    <published>2020-04-29T10:20:05-04:00</published>
+    <updated>2020-04-29T10:20:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-composition-notebook"/>
+    <title>Wholesale Composition Notebook</title>
+    <s:type></s:type>
+    <s:vendor>SS9359</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/SS9359.jpg?v=1588170373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SS9359<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.82 - 92.26
+            <a href="https://bagsinbulk.ca/products/wholesale-composition-notebook">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This durable composition notebook is perfect for hardworking students. It comes with enough pages to take for a full year of school and more! </p>
+<div class="boxedtext">
+<ul>
+<li>48 Books Per Case</li>
+<li>100 Sheets (200 Pages)</li>
+<li>Measures 9.25 x 7.5</li>
+<li>Comes in Black Only</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Composition Books</s:tag>
+    <s:tag>School Supplies</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153127989292</id>
+      <title>1</title>
+      <s:price currency="CAD">92.26</s:price>
+      <s:sku>SS9359</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5153127989292</id>
+      <title>21</title>
+      <s:price currency="CAD">72.82</s:price>
+      <s:sku>SS9359</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+</feed>

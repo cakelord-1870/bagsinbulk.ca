@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bagsinbulk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bagsinbulk.ca/collections/wholesale-hygiene-kits.atom"/>
+  <title>BagsInBulk.ca</title>
+  <updated>2021-08-20T00:15:52-04:00</updated>
+  <author>
+    <name>BagsInBulk.ca</name>
+  </author>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5354846421036</id>
+    <published>2021-08-20T00:15:52-04:00</published>
+    <updated>2021-08-20T00:15:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-deluxe-feminine-20-piece-hygiene-kit"/>
+    <title>Wholesale Deluxe Feminine 20 Piece Hygiene Kit</title>
+    <s:type></s:type>
+    <s:vendor>TT9604</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/TT9604_1.jpg?v=1598896094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TT9604<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            199.20 - 237.60
+            <a href="https://bagsinbulk.ca/products/wholesale-deluxe-feminine-20-piece-hygiene-kit">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="hidden-xs">Each hygiene kit is individually packed with the following supplies:</div>
+<ul>
+<li>1 Oz Shampoo </li>
+<li>(2) 0.21 Oz Toothpaste</li>
+<li>White Toothbrush</li>
+<li>1 Oz Body Lotion</li>
+<li>1 Oz Conditioner</li>
+<li>(2) Bar Soap</li>
+<li>1 Oz Body Wash</li>
+<li>5 Inch Black Comb</li>
+<li>10 Pack of Tissues</li>
+<li>1 Black Razor </li>
+<li>(3) Pack Single-Use Shaving Cream</li>
+<li>1 Nail Clipper</li>
+<li>1 Shower Cap</li>
+<li>1 Nail Filer</li>
+<li>1 Sewing Kit 5 Color Thread</li>
+<li>1 Resealable Bag</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hy</s:tag>
+    <s:tag>hygiene kits</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846421036</id>
+      <title>1</title>
+      <s:price currency="CAD">237.60</s:price>
+      <s:sku>TT9604</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846421036</id>
+      <title>11</title>
+      <s:price currency="CAD">228.00</s:price>
+      <s:sku>TT9604</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846421036</id>
+      <title>21</title>
+      <s:price currency="CAD">216.00</s:price>
+      <s:sku>TT9604</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846421036</id>
+      <title>100</title>
+      <s:price currency="CAD">206.40</s:price>
+      <s:sku>TT9604</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846421036</id>
+      <title>200</title>
+      <s:price currency="CAD">199.20</s:price>
+      <s:sku>TT9604</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5354846027820</id>
+    <published>2021-08-20T00:15:52-04:00</published>
+    <updated>2021-08-20T00:15:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-deluxe-20-piece-hygiene-kit"/>
+    <title>Wholesale Deluxe 20 Piece Hygiene Kit</title>
+    <s:type></s:type>
+    <s:vendor>TT9602</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/TT9602_1.jpg?v=1598895982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TT9602<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            199.20 - 237.60
+            <a href="https://bagsinbulk.ca/products/wholesale-deluxe-20-piece-hygiene-kit">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="hidden-xs">Each hygiene kit is individually packed with the following supplies:</div>
+<ul>
+<li>1 Oz Shampoo </li>
+<li>(2) 0.21 Oz Toothpaste</li>
+<li>White Toothbrush</li>
+<li>1 Oz Body Lotion</li>
+<li>1 Oz Conditioner</li>
+<li>(2) Bar Soap</li>
+<li>1 Oz Body Wash</li>
+<li>5 Inch Black Comb</li>
+<li>10 Pack of Tissues</li>
+<li>1 Black Razor </li>
+<li>(3) Pack Single-Use Shaving Cream</li>
+<li>1 Nail Clipper</li>
+<li>1 Shower Cap</li>
+<li>1 Nail Filer</li>
+<li>1 Sewing Kit 5 Color Thread</li>
+<li>1 Resealable Bag</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hy</s:tag>
+    <s:tag>hygiene kits</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846027820</id>
+      <title>1</title>
+      <s:price currency="CAD">237.60</s:price>
+      <s:sku>TT9602</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846027820</id>
+      <title>11</title>
+      <s:price currency="CAD">228.00</s:price>
+      <s:sku>TT9602</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846027820</id>
+      <title>21</title>
+      <s:price currency="CAD">216.00</s:price>
+      <s:sku>TT9602</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846027820</id>
+      <title>100</title>
+      <s:price currency="CAD">210.70</s:price>
+      <s:sku>TT9602</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846027820</id>
+      <title>200</title>
+      <s:price currency="CAD">199.20</s:price>
+      <s:sku>TT9602</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5354846879788</id>
+    <published>2021-08-20T00:15:31-04:00</published>
+    <updated>2021-08-20T00:15:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-premium-25-piece-hygiene-kit"/>
+    <title>Wholesale Premium 25 Piece Hygiene Kit</title>
+    <s:type></s:type>
+    <s:vendor>TT9603</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/TT9603_1.jpg?v=1598896220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TT9603<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            142.80 - 169.20
+            <a href="https://bagsinbulk.ca/products/wholesale-premium-25-piece-hygiene-kit">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="hidden-xs">Each hygiene kit is individually packed with the following supplies:</div>
+<ul>
+<li>(2) 1 Oz Shampoo</li>
+<li>1 White Toothbrush</li>
+<li>(3) Toothpaste</li>
+<li>(2) 1 Oz Body Lotion</li>
+<li>1 Oz Conditioner</li>
+<li>(2) Soap Bar</li>
+<li>(2) 1 Oz Body Wash</li>
+<li>1 5 Inch Black Comb</li>
+<li>1 Oz Hand Soap</li>
+<li>1 Oz Mouthwash</li>
+<li>(1) 10 Pack Of Tissues</li>
+<li>1 Black Razor Blade</li>
+<li>(3) Single-Use Shaving Cream</li>
+<li>1 Metal Clipper</li>
+<li>1 Shower Cap</li>
+<li>1 Nail File</li>
+<li>Resealable Bag</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hygiene kits</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846879788</id>
+      <title>1</title>
+      <s:price currency="CAD">169.20</s:price>
+      <s:sku>TT9603</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846879788</id>
+      <title>11</title>
+      <s:price currency="CAD">162.00</s:price>
+      <s:sku>TT9603</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846879788</id>
+      <title>21</title>
+      <s:price currency="CAD">154.80</s:price>
+      <s:sku>TT9603</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846879788</id>
+      <title>100</title>
+      <s:price currency="CAD">147.60</s:price>
+      <s:sku>TT9603</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354846879788</id>
+      <title>200</title>
+      <s:price currency="CAD">142.80</s:price>
+      <s:sku>TT9603</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5354845536300</id>
+    <published>2021-08-20T00:15:31-04:00</published>
+    <updated>2021-08-20T00:15:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-classic-15-piece-hygiene-kit"/>
+    <title>Wholesale Classic 15 Piece Hygiene Kit</title>
+    <s:type></s:type>
+    <s:vendor>TT9601</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/TT9601_1.jpg?v=1598895741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TT9601<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            127.20 - 144.00
+            <a href="https://bagsinbulk.ca/products/wholesale-classic-15-piece-hygiene-kit">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="hidden-xs">Each hygiene kit is individually packed with the following supplies:</div>
+<ul>
+<li>Two 0.6 Oz Fluoride Toothpaste</li>
+<li>Pediatric Toothbrush</li>
+<li>1 Oz Shampoo</li>
+<li>1 Oz Body Wash</li>
+<li>Two Deodorant Soaps</li>
+<li>5 Inch Black Comb</li>
+<li>Single Blade Razor</li>
+<li>Two 0.18 Oz Shaving Creams</li>
+<li>4.5 Inch Nail Filer<br>
+</li>
+<li>18.5 Inch Shower Cap<br>
+</li>
+<li>6 Thread Sewing Kits With Buttons</li>
+<li>Resealable Clear Bag</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hy</s:tag>
+    <s:tag>hygiene kits</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354845536300</id>
+      <title>1</title>
+      <s:price currency="CAD">144.00</s:price>
+      <s:sku>TT9601</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354845536300</id>
+      <title>11</title>
+      <s:price currency="CAD">141.60</s:price>
+      <s:sku>TT9601</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354845536300</id>
+      <title>21</title>
+      <s:price currency="CAD">136.80</s:price>
+      <s:sku>TT9601</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354845536300</id>
+      <title>100</title>
+      <s:price currency="CAD">137.20</s:price>
+      <s:sku>TT9601</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354845536300</id>
+      <title>200</title>
+      <s:price currency="CAD">127.20</s:price>
+      <s:sku>TT9601</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bagsinbulk.ca/products/5354844094508</id>
+    <published>2021-08-20T00:15:29-04:00</published>
+    <updated>2021-08-20T00:15:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bagsinbulk.ca/products/wholesale-travel-hygiene-and-toiletries-kit"/>
+    <title>Wholesale Travel Hygiene And Toiletries Kit</title>
+    <s:type></s:type>
+    <s:vendor>TT9600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0018/8474/9859/products/TT9600new_1.jpg?v=1622134790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TT9600<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            115.20 - 144.00
+            <a href="https://bagsinbulk.ca/products/wholesale-travel-hygiene-and-toiletries-kit">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="hidden-xs">Each hygiene kit is individually packed with the following supplies:</div>
+<ul>
+<li>0.6 Oz Fluoride Toothpaste</li>
+<li>Pediatric Toothbrush</li>
+<li>1 Oz Shampoo</li>
+<li>Deodorant Soaps</li>
+<li>5 Inch Black Comb</li>
+<li>Resealable Clear Bag</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hygiene kits</s:tag>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354844094508</id>
+      <title>1</title>
+      <s:price currency="CAD">144.00</s:price>
+      <s:sku>TT9600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354844094508</id>
+      <title>11</title>
+      <s:price currency="CAD">139.20</s:price>
+      <s:sku>TT9600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354844094508</id>
+      <title>21</title>
+      <s:price currency="CAD">129.60</s:price>
+      <s:sku>TT9600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354844094508</id>
+      <title>100</title>
+      <s:price currency="CAD">124.80</s:price>
+      <s:sku>TT9600</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bagsinbulk.ca/products/5354844094508</id>
+      <title>200</title>
+      <s:price currency="CAD">115.20</s:price>
+      <s:sku>TT9600</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>
